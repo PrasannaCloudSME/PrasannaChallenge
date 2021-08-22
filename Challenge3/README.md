@@ -1,7 +1,7 @@
 
-**Challenge #3 We have a nested object, we would like a function that you pass in the object and a key and get back the value. How this is implemented is up to you. Example Inputs object = {“a”:{“b”:{“c”:”d”}}} key = a/b/c object = {“x”:{“y”:{“z”:”a”}}} key = x/y/z value = a
+**Challenge #3 We have a nested object, we would like a function that you pass in the object and a key and get back the value. How this is implemented is up to you. Example Inputs object = {“a”:{“b”:{“c”:”d”}}} key = a/b/c object = {“x”:{“y”:{“z”:”a”}}} key = x/y/z value = a**
 
-**Script
+**Script**
 
 
 var object = {"a": { "b": { "c": "d" }}};
@@ -15,7 +15,7 @@ console.log("Result at 'x.y.z': ",_.get(object2, 'x.y.z'));
 
 
 
-**OutPut
+**OutPut**
 
 "Result at 'a.b.c': "
 "d"
