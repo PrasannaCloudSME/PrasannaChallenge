@@ -8,3 +8,7 @@ The database server is the data or backend tier of a web application. It runs on
 ![Prasanna 3 Tier Azure Architecture ](https://user-images.githubusercontent.com/55081476/130340740-d0a67795-dca6-498c-8bc0-51b7f5a8297a.png)
 
 
+Execute terraform script using below commands
+Terraform Init
+Terraform Plan -var-file="terraform.tfvars"
+Terraform Apply -var-file="terraform.tfvars"
