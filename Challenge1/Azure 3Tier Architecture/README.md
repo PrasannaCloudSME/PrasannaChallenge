@@ -37,5 +37,12 @@ Terraform Apply
 
 **I have created the code and tested it on my trail tenant, it is working without any issue. Due to the trai account limitations, im able create only 5 virtual machines now. Please find the resource visualizer diagram based upon the output**
 
+
+<img width="957" alt="Prasanna Visual studio Code" src="https://user-images.githubusercontent.com/55081476/130367803-a391c771-451d-4d08-93ff-750393c14193.PNG">
+
+
+
+
+
 <img width="953" alt="Azure 3 tier Resource visualizer" src="https://user-images.githubusercontent.com/55081476/130367340-efda5d50-f9af-4e1d-bb78-5dc31e23e438.PNG">
 
