@@ -12,5 +12,7 @@ Execute terraform script using below commands
 
 
 Terraform Init
+
 Terraform Plan -var-file="terraform.tfvars"
+
 Terraform Apply -var-file="terraform.tfvars"
