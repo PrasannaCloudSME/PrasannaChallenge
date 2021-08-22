@@ -5,7 +5,8 @@ You can use it to manage and configure your virtual machines.
 This information includes the SKU, storage, network configurations, and upcoming maintenance events.
 IMDS is a REST API that's available at a well-known, non-routable IP address (169.254.169.254). You can only access it from within the VM. 
 
-The below script is to execute in azure VM
+
+**The below script is to execute in azure VM**
 
 
 
