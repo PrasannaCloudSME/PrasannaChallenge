@@ -14,6 +14,9 @@ console.log("Result at 'x.y.z': ",_.get(object2, 'x.y.z'));
 <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.11/lodash.js"></script>
 
 
+**Test the Script with loadsh**
+https://lodash.com/docs/4.17.15#get
+
 
 **OutPut**
 
