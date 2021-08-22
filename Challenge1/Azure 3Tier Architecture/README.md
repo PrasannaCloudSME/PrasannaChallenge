@@ -11,7 +11,7 @@ The database server is the data or backend tier of a web application. It runs on
 ![Prasanna 3 Tier Azure Architecture ](https://user-images.githubusercontent.com/55081476/130340740-d0a67795-dca6-498c-8bc0-51b7f5a8297a.png)
 
 
-**Terraform is an open-source infrastructure as code software tool that provides a consistent CLI workflow to manage hundreds of cloud services. **
+**I have Used the Terraform Open source tool create the azure Infrastructure, please find the details about terraform and commands to execute the above code**
 
 
 **Terraform**
@@ -27,6 +27,8 @@ Terraform is a tool for building, changing, and versioning infrastructure safely
 
 
 Terraform Init
+
+Terraform validate
 
 Terraform Plan 
 
