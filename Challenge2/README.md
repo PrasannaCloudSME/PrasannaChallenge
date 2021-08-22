@@ -8,11 +8,12 @@ IMDS is a REST API that's available at a well-known, non-routable IP address (16
 
 **The below script is to execute in azure VM**
 
-
+**Windows code**
 
 Invoke-RestMethod -Headers @{"Metadata"="true"} -Method GET -Uri "http://169.254.169.254/metadata/instance?api-version=2021-02-01" | ConvertTo-Json | Out-File -FilePath C:\Users\PrasannaAzureVminstance.json
 
-
+**Linux code**
+curl -H Metadata:true --noproxy "*" "http://169.254.169.254/metadata/instance/compute/userData?api-version=2021-01-01&format=text" | base64 --decode
 
 
 **Below is the output of the above script in Json formate**
