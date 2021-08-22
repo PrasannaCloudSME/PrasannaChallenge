@@ -7,6 +7,7 @@ The application server corresponds to the middle tier, housing the business logi
 **Database Tier**
 The database server is the data or backend tier of a web application. It runs on database management software, such as MySQL, Oracle, DB2 or PostgreSQL, for example.
 
+**I have designed the azure 3 Tier Architecture **
 
 ![Prasanna 3 Tier Azure Architecture ](https://user-images.githubusercontent.com/55081476/130340740-d0a67795-dca6-498c-8bc0-51b7f5a8297a.png)
 
