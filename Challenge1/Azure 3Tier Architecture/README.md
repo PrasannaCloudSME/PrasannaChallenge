@@ -9,6 +9,8 @@ The database server is the data or backend tier of a web application. It runs on
 
 
 Execute terraform script using below commands
+
+
 Terraform Init
 Terraform Plan -var-file="terraform.tfvars"
 Terraform Apply -var-file="terraform.tfvars"
